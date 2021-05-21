@@ -23,9 +23,6 @@
   </table>
 </center>
 
-    <tr>
-        <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LeonardoGNascimento&theme=material-palenight&show_icons=true&locale=en&layout=compact" alt="LeonardoGabriel" /></td>
-        <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=LeonardoGNascimento&theme=material-palenight&show_icons=true&locale=en" alt="LeonardoGabriel" /></td>
-    </tr>   
+  
   </table>
 </center>
