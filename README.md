@@ -6,10 +6,10 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="" height="28" width="40" src="https://img.shields.io/badge/PHP-9370DB?style=for-the-badge&logo=php&logoColor=white">
+  <img align="center" alt="" height="30" width="70.75" src="https://img.shields.io/badge/PHP-9370DB?style=for-the-badge&logo=php&logoColor=white">
   <img align="center" alt="" height="30" width="126.5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="" height="30" width="40" src="https://img.shields.io/badge/HTML-FFA500?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="" height="30" width="40" src="https://img.shields.io/badge/CSS-1E90FF?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="" height="30" width="80" src="https://img.shields.io/badge/HTML-FFA500?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="" height="30" width="68.75" src="https://img.shields.io/badge/CSS-1E90FF?style=for-the-badge&logo=css3&logoColor=white">
 </div>
   
    ##
