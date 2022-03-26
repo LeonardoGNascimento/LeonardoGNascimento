@@ -16,12 +16,14 @@
   <img align="center" alt="" height="30" width="70.75" src="https://img.shields.io/badge/PHP-9370DB?style=for-the-badge&logo=php&logoColor=white">
 </div>
   
- ## Bando de dados
+## Bando de dados
 <div style="display: inline_block"><br>
     <img align="center" alt="" height="30" width="88.25" src="https://img.shields.io/badge/mysql-FF8C00?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
-   ##
-  
+
+## Redes Sociais
 <div>
-  <a href="https://www.linkedin.com/in/leonardo-nascimento-93225717a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/leonardo-nascimento-93225717a/" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
 </div>
