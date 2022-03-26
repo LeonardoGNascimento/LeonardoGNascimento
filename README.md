@@ -16,6 +16,10 @@
   <img align="center" alt="" height="30" width="123.25" src="https://img.shields.io/badge/bootstrap-9932CC?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div>
   
+ ## Bando de dados
+<div style="display: inline_block"><br>
+    <img align="center" alt="" height="30" width="88.25" src="https://img.shields.io/badge/mysql-FF8C00?style=for-the-badge&logo=mysql&logoColor=white">
+</div>
    ##
   
 <div>
