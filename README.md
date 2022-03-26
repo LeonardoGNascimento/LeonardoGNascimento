@@ -33,8 +33,12 @@
   </a> 
 
   <a>
-    <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="css3" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="js" width="40" height="40"/>
   </a> 
+  
+  <a>
+    <img src="https://marcas-logos.net/wp-content/uploads/2020/11/MySQL-logo.png" alt="mysql" width="40" height="40"/>
+  </a>
   
 </p>
 
