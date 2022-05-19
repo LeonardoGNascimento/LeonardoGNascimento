@@ -27,7 +27,7 @@
      <img align="center" alt="" height="30" width="70.75" src="https://img.shields.io/badge/PHP-9370DB?style=for-the-badge&logo=php&logoColor=white">
   </a>
   <a href="https://www.php.net/docs.php">
-      <img align="center" alt="" height="30" width="70.75" src="https://img.shields.io/badge/ReactTs-9370DB?style=for-the-badge&logo=react&logoColor=white">
+      <img align="center" alt="" height="30" width="80.75" src="https://img.shields.io/badge/React-9370DB?style=for-the-badge&logo=react&logoColor=white">
   </a>
 </div>
   
