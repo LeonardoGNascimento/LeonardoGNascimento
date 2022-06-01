@@ -8,6 +8,9 @@
 ## Ferramentas
 
 <div style="display: inline_block"><br>
+   <a href="https://www.php.net/docs.php">
+       <img align="center" alt="" height="30" width="70.75" src="https://img.shields.io/badge/PHP-9370DB?style=for-the-badge&logo=php&logoColor=white">
+    </a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
       <img align="center" alt="" height="30" width="80" src="https://img.shields.io/badge/HTML-FFA500?style=for-the-badge&logo=html5&logoColor=white">
   </a>
@@ -22,9 +25,6 @@
   </a>
   <a href="https://api.jquery.com/">
       <img align="center" alt="" height="30" width="95.5" src="https://img.shields.io/badge/Jquery-1E90FF?style=for-the-badge&logo=jquery&logoColor=white">
-  </a>
-  <a href="https://www.php.net/docs.php">
-     <img align="center" alt="" height="30" width="70.75" src="https://img.shields.io/badge/PHP-9370DB?style=for-the-badge&logo=php&logoColor=white">
   </a>
   <a href="https://pt-br.reactjs.org/docs/getting-started.html">
       <img align="center" alt="" height="30" width="85.75" src="https://img.shields.io/badge/React-1E90FF?style=for-the-badge&logo=react&logoColor=white">
