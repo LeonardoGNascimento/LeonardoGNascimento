@@ -12,7 +12,7 @@
       <img align="center" alt="" height="30" width="70.75" src="https://img.shields.io/badge/PHP-9370DB?style=for-the-badge&logo=php&logoColor=white">
   </a>
   <a href="https://laravel.com/">
-      <img align="center" height="30" width="75.75" src="https://img.shields.io/badge/laravel-ff2d20?style=for-the-badge&logo=laravel&logoColor=white"
+      <img align="center" alt="" height="30" width="95.5" src="https://img.shields.io/badge/laravel-ff2d20?style=for-the-badge&logo=laravel&logoColor=white"
   </a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
       <img align="center" alt="" height="30" width="80" src="https://img.shields.io/badge/HTML-FFA500?style=for-the-badge&logo=html5&logoColor=white">
