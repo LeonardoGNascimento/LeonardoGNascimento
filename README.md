@@ -1,4 +1,4 @@
-## Desenvolvedor web focado em PHP!
+## Desenvolvedor web fullstack!
 
 <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoGNascimento&layout=compact&langs_count=7&theme=dracula"/>
