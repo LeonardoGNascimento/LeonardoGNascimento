@@ -14,7 +14,7 @@
   <a href="https://laravel.com/">
       <img align="center" alt="" height="30" width="95.5" src="https://img.shields.io/badge/laravel-ff2d20?style=for-the-badge&logo=laravel&logoColor=white"
   </a>
-  <a> href="https://docs.nestjs.com/">
+  <a href="https://docs.nestjs.com/">
       <img align="center" alt="" height="30" width="95.5" src="https://img.shields.io/badge/nestjs-ff2d20?style=for-the-badge&logo=nestjs&logoColor=white"
   </a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
