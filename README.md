@@ -17,6 +17,9 @@
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
     <img align="center" alt="" height="30" width="126.5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   </a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
+    <img align="center" alt="" height="30" width="126.5" src='https://img.shields.io/badge/typeScript-blue?style=for-the-badge&logo=typescript&logoColor=white'>
+  </a>  
   <a href="https://docs.nestjs.com/">
     <img align="center" alt="" height="30" width="95.5" src="https://img.shields.io/badge/nestjs-ff2d20?style=for-the-badge&logo=nestjs&logoColor=white"
   </a>
