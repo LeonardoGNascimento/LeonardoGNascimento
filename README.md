@@ -32,6 +32,7 @@
   <a href="https://getbootstrap.com/docs/4.1/getting-started/introduction/">
     <img align="center" alt="" height="30" width="123.25" src="https://img.shields.io/badge/bootstrap-9932CC?style=for-the-badge&logo=bootstrap&logoColor=white">
   </a>
+  <br />
   <a href="https://api.jquery.com/">
     <img align="center" alt="" height="30" width="95.5" src="https://img.shields.io/badge/Jquery-1E90FF?style=for-the-badge&logo=jquery&logoColor=white">
   </a>
