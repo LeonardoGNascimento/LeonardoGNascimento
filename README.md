@@ -56,9 +56,14 @@
 
 ## Banco de dados
 
-<div style="display: inline_block"><br>
+<p style="display: inline_block">
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img align="center" alt="" height="30" width="88.25" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg">
-</div>
+  </a>
+  <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> 
+    <img align="center" alt="" height="30" width="88.25" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg">
+  </a>
+</p>
 
 ## Redes Sociais
 
