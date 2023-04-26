@@ -57,7 +57,7 @@
 ## Banco de dados
 
 <div style="display: inline_block"><br>
-    <img align="center" alt="" height="30" width="88.25" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/mysql/mysql-icon.svg">
+    <img align="center" alt="" height="30" width="88.25" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg">
 </div>
 
 ## Redes Sociais
