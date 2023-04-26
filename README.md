@@ -64,6 +64,6 @@
 
 <div>
   <a href="https://www.linkedin.com/in/leonardo-nascimento-93225717a/" target="_blank">
-      <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" target="_blank">
+      <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" target="_blank" width="40" height="40">
   </a>
 </div>
