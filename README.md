@@ -2,15 +2,7 @@
   
 ## Ferramentas
 <p align="left"> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  </a>  
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="40" height="40"/> 
-  </a>
-  <a href="https://phpunit.de/" target="_blank" rel="noreferrer"> 
-    <img src="https://codesamplez.com/wp-content/uploads/2014/07/phpunit.png" alt="unit" width="40" height="40"/> 
-  </a>
+    </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> 
   </a> 
@@ -23,6 +15,15 @@
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="nestjs" width="40" height="40"/> 
   </a> 
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
+  </a>  
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="40" height="40"/> 
+  </a>
+  <a href="https://phpunit.de/" target="_blank" rel="noreferrer"> 
+    <img src="https://codesamplez.com/wp-content/uploads/2014/07/phpunit.png" alt="unit" width="40" height="40"/> 
+
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> 
   </a>  
